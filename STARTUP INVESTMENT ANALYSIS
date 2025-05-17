@@ -5,3 +5,4 @@ Then in the given below data I cleaned and organized the dataset by focusing on 
 I standardized the domain names in the Industry column and ensured that all funding figures were valid numeric values.
 Then, I grouped the records by each domain, summing the Total Deal Amounts to get a clear picture of funding trends by domain. 
 This approach provided an aggregated view of startup investments across different industries
+Industry,Pitchers Gender,Got Deal,Count of Pitchers Average Age,Sum of Total Deal Amount
