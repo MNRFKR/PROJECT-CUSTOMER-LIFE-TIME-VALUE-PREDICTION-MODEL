@@ -1,1 +1,7 @@
 #START UP INVESTMENT ANALYSIS#
+In the below the data taken from US SHARK TANK DATA containing different industries and pitchers
+"C:\Users\manoh\Downloads\Shark_Tank_US_dataset.csv.csv"
+Then in the given below data I cleaned and organized the dataset by focusing on the key columns: Industry (domain) and Sum of Total Deal Amount (funding). 
+I standardized the domain names in the Industry column and ensured that all funding figures were valid numeric values.
+Then, I grouped the records by each domain, summing the Total Deal Amounts to get a clear picture of funding trends by domain. 
+This approach provided an aggregated view of startup investments across different industries
