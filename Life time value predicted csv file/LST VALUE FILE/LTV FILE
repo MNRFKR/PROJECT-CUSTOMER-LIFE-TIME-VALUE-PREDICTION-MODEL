@@ -1,4 +1,4 @@
-In the below data shows all the csv file customers life value predicted segment values
+In the below data shows all the csv file customers life time value predicted segment values
 
 name,age,gender,education,income,country,purchase_frequency,spending,LST_value,ltv_segment
 Teresa Williams MD,42,Female,High School,53936,Slovenia,0.9,13227.12,11851.570041654573,Medium
