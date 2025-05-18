@@ -30,12 +30,18 @@ This visualization provides a quick, at-a-glance understanding of how the fundin
 "C:\Marvel\Pictures\Screenshots\Screenshot 2025-05-18 131425.png"
 
 In the given below image 
- I built a combination chart that mixes bars and a line to show how funding stages and success rates change.
+ I built a combination chart that mixed bars and a line to show how funding stages and success rates change.
  The bars display metrics such as the number of deals or the average funding per stage, while the overlaid line shows how these values progress over time or across stages.
  I added interactive filters (slicers) so users can easily sort the data by factors like Pitchers’ Gender or Industry, making it more engaging.
  I kept the design neat and consistent so the information flows like a clear story, guiding viewers through the main insights.
  This approach makes it easier to see trends and differences, effectively summarizing the performance of startups throughout their funding journey
 "C:\Marvel\Pictures\Screenshots\Screenshot 2025-05-18 130630.png"
+
+How I Used the Excel CSV Data 
+I imported the structured CSV file and verified that all key columns—Industry, Funding Amounts, and Pitch Metrics—are correctly defined.
+I transformed and cleaned the raw CSV data to ensure consistency and accuracy before modeling in Power BI.
+DAX functions were applied to create calculated measures that form the backbone of the interactive visualizations.
+The cleaned data dynamically powers every chart and slicer, making the dashboard responsive and deeply informative
 
 
 
