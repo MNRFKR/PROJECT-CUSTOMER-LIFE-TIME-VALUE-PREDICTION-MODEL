@@ -22,8 +22,20 @@ In the below dataset there is a seperated Got Deal list which was like funded in
 -INDUSTY NAME, STARTUP NAME, AND SUM OF TOTAL DEAL AMOUNT CALCULATED in a seperate companies funded list
 "C:\Marvel\Desktop\Shark_Tank_US_dataset.csv2.csv 11.csv"
 
+In the given below image I imported the cleaned CSV data into Power BI and immediately dived into creating a ring chart that visalises the funding across different industries.
+Each segment of the chart represents an industry’s proportional share of the total deal amount, making comparisons intuitive
+I applied a custom color scheme to ensure that each industry is distinct and communicates its unique performance
+Interactive tooltips were enabled, allowing any user to lookup over a segment for more detailed figures like the exact deal amount and count of pitches
+This visualization provides a quick, at-a-glance understanding of how the funding is distributed across sectors
+"C:\Marvel\Pictures\Screenshots\Screenshot 2025-05-18 131425.png"
 
-
+In the given below image 
+ I built a combination chart that mixes bars and a line to show how funding stages and success rates change.
+ The bars display metrics such as the number of deals or the average funding per stage, while the overlaid line shows how these values progress over time or across stages.
+ I added interactive filters (slicers) so users can easily sort the data by factors like Pitchers’ Gender or Industry, making it more engaging.
+ I kept the design neat and consistent so the information flows like a clear story, guiding viewers through the main insights.
+ This approach makes it easier to see trends and differences, effectively summarizing the performance of startups throughout their funding journey
+"C:\Marvel\Pictures\Screenshots\Screenshot 2025-05-18 130630.png"
 
 
 
